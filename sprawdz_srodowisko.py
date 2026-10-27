@@ -57,7 +57,7 @@ def oblicz_srednia(liczby):
     suma = sum(liczby)
     ilosc = len(liczby)
     if ilosc == 0:
-            return 0
+            return 0#Nowy komentarz
     srednia = suma / ilosc
     return srednia
 

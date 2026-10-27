@@ -63,8 +63,8 @@ def oblicz_srednia(liczby):
 
 wynik = oblicz_srednia([])
 print(wynik)
-print("cos2")
+print("cos")
+
 if __name__ == "__main__":
     sys.exit(main())
-    wynik = oblicz_srednia([])
-    print(wynik)
+    
